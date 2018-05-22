@@ -1,0 +1,46 @@
+h1{
+  background-image: url("images/img1.jpeg");
+  text-align: center;
+  color: khaki;
+  font-size: 100px;
+  display: block;
+  font-family: Helvetica;
+  font-weight: bold;
+  margin-top: 0.50em;
+  margin-bottom: 0.50em;
+  margin-left: 0.0em;
+  margin-right: 0.0em;
+}
+
+.Brushes{
+  background-color: mediumspringgreen;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  font-size: 32px;
+  display: block;
+}
+ .div1, .div2, .div3{
+   font-family: Helvetica;
+   font-weight: bold;
+   color: blue;
+ }
+
+ .Frames{
+   background-color: lightcoral;
+   font-family:Helvetica;
+   font-weight: bold;
+   color: white;
+   font-size: 32px;
+   display: block;
+
+ }
+
+ .Paint{
+   background-color: skyblue;
+   font-family: Helvetica;
+   font-weight: bold;
+   color: white;
+   font-size: 32px;
+   display: block;
+ }
